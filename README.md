@@ -1,4 +1,4 @@
 # slither-client
-##COMING SOON!
+###COMING SOON!
 Node.js slither.io client implementation
 
