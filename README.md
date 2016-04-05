@@ -1,10 +1,6 @@
 # slither-client (v1 In Development)
-##Authors and Collaborators
+##Authors/Collaborators
 Dosk / MasonBurdette
-
-DrGoat / PrimeBagel
-
-Cr4zy
 
 ##Description
 slither-client is a Node.JS implementation of the Slither.io client.  This code saves time when creating slither.io applications. It handles connecting, sending init, movement, and many more essential elements for slither.io
