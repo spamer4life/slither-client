@@ -1,7 +1,9 @@
 # slither-client (v1 In Development)
 ##Authors and Collaborators
 Dosk / MasonBurdette
+
 DrGoat / PrimeBagel
+
 Cr4zy
 
 ##Description
