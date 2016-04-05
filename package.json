@@ -1,0 +1,28 @@
+{
+  "name": "slither-client",
+  "version": "0.0.0",
+  "description": "Node.js slither.io client implementation",
+  "main": "slither-client.js",
+  "dependencies": {
+    "ws": "^1.0.1"
+  },
+  "devDependencies": {},
+  "files": [
+    "slither-client.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/masonburdette/slither-client.git"
+  },
+  "keywords": [
+    "slither.io",
+    "slither",
+    "client"
+  ],
+  "author": "Mason Burdette / Dosk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masonburdette/slither-client/issues"
+  },
+  "homepage": "https://github.com/masonburdette/slither-client"
+}
