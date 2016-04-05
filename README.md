@@ -1,5 +1,4 @@
-# slither-client
-####COMING SOON!
+# slither-client (v1 In Development)
 #####Author - Dosk / Mason Burdette
 fyi, Mason Burdette is Dosk (his real name)
 
