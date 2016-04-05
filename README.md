@@ -1,4 +1,7 @@
 # slither-client (v1 In Development)
+##Inspired by agario-client
+
+
 ##Authors/Collaborators
 Dosk / MasonBurdette
 
