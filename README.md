@@ -9,3 +9,9 @@ slither-client is a Node.JS implementation of the Slither.io client.  This code 
 - Custom Client
 - Spawning Snakes
 - Feeder Bots
+
+##API
+There are two types of object that have API:
+
+**Client** - thing that connects to slither.io server and talks to it. If you want to spawn and control your entity (snake), you need to talk with Client
+**Entites** - **_currently undergoing further research_**
