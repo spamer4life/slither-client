@@ -1,8 +1,12 @@
 # slither-client
+
 ####Version 1 is currently being finished!
+- [x] Connection
+- [x] Initialization Packet
+- [x] Request to Spawn
+- [ ] Movement
 
-
-
+- [ ] Documentation
 
 ##Authors/Collaborators
 Dosk / MasonBurdette
