@@ -5,7 +5,6 @@
 - [x] Initialization Packet
 - [x] Request to Spawn
 - [ ] Movement
-
 - [ ] Documentation
 
 ##Authors/Collaborators
