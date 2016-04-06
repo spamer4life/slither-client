@@ -1,6 +1,5 @@
-# slither-client (v1 In Development)
-###Inspired by agario-client
-
+# slither-client
+####Version 1 is currently being finished!
 
 
 
