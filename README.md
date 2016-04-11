@@ -1,6 +1,7 @@
 # slither-client
 
 ####Version 1 is currently being finished!
+#####Note: I'm currently really busy, which will delay release on here and npm. 
 - [x] Connection
 - [x] Initialization Packet
 - [x] Request to Spawn
